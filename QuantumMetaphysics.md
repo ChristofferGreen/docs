@@ -43,6 +43,10 @@ By **restriction** I mean a **metaphysical rule applied to a mode of being**. It
 
 Restrictions are applied by **volumes of potential interacting with other volumes of potential**. These interactions multiply potentials but also restrict them. Example: light bouncing off a wall is a volume of light potential interacting with a dense collection of electron potential volumes. The interaction constrains what the light volume can be and do, shaping (or, under heavy restriction, collapsing) its potentiality.
 
+## 2.6 Optimization / LOD metaphor
+
+A useful analogy is **level-of-detail (LOD)** in a game engine. The quantum domain contains a rich volume of potential, but **actuality is a committed render**: a restriction chooses a determinate outcome and **fixes a concrete level of detail** in space and time. Collapse is not a loss of information for us; it is the **ontological commit** that makes a specific outcome real, much like an engine resolves a region of a scene at a chosen resolution. This is an **optimization of being**, not a shortcut in our description: the world does not instantiate all potential detail as actual at once.
+
 
 ## 3. What the wavefunction represents
 
