@@ -2,6 +2,10 @@
 
 This document summarizes my views on the metaphysics of quantum physics. It begins from an Aristotelian framework and treats quantum theory as a metaphysical account of potentiality becoming actuality.
 
+## Scope and commitments
+
+This view is primarily a **competitor to existing interpretations** (e.g., Many-Worlds) rather than a new dynamical theory. It aims to **recover standard quantum predictions** while offering a different **ontology** (potentiality → actuality via restriction). Where it overlaps with collapse-style ideas, that overlap is intentional and a **virtue** of the view. If this ontology ever yields **testable differences**, that would be a welcome bonus, but the aim here is interpretive.
+
 ## 1. Aristotelian frame: potency and actuality
 
 - **Potency** is the mode of being of what can be, not yet what is. It is real but indeterminate.
@@ -73,6 +77,8 @@ An intuitive picture is a **faucet streaming potential**. The faucet is the sour
 ## 4. No particles in the quantum world (physics claim)
 
 This is not just a metaphysical gloss; it is a **physical claim about ontology**. In the quantum domain, there are **no particles as primitive objects**. There are only **entities of potential**. These are not localized points, but extended probability structures occupying volumes of space.
+
+Even in QFT, “particles” are not tiny classical balls; they are context-dependent field excitations. Localized excitations are wave-packet-like and typically **spread** over time rather than moving as rigid, fixed-shape objects.
 
 A **particle** is the **actualized endpoint** of a constrained quantum potential - a classical actuality imposed on a quantum volume. The classical idea of a particle is therefore the end state of a process, not the fundamental starting point.
 
